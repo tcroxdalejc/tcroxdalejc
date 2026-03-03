@@ -22,17 +22,22 @@ To keep our workflows smooth, here is how I prefer to stay in sync:
 
 ---
 
+<details>
+<summary><b>🔍 Click to expand: More about me (Quirks & Life)</b></summary>
+
 ## ✨ Quirks & Context
 A few things that might help you get to know me better:
-* **The Glasses Quirk:** I have a habit of constantly cleaning my glasses — it's just part of my focus routine.
-* **Pet Peeve:** Driving slow in the fast lane.
+* **The Swag Story:** If you see me on a call with liquor-branded apparel or cups, it’s because my wife works for a liquor company—I’ve acquired quite a bit of swag! 
+* **The Glasses Quirk:** I have a habit of constantly cleaning my glasses—it's just part of my focus routine. 
+* **Pet Peeve:** Driving slow in the fast lane. 
 
 ---
 
 ## 🎸 Beyond the Screen
 When I'm not focused on design or team ops, you'll likely find me:
-* **With Family:** Enjoying time with my family and watching my son experience life.
-* **On the Move:** Traveling whenever I get the chance.
-* **Listening to Music:** I love all types of music, though **Bob Marley** is my all time favorite.
+* **With Family:** Enjoying time with my family and watching my son experience life. 
+* **On the Move:** Traveling whenever I get the chance. 
+* **Listening to Music:** I love all types of music, though **Bob Marley** is my all-time favorite. 
 
----
+</details>
+
