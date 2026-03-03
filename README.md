@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Tim 👋🏼
+### Senior Product Design Manager
 
-<!--
-**tcroxdalejc/tcroxdalejc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> [!TIP]
+> **Why does this exist?** This is a living "User Manual" to help you understand how I work, what I value, and how we can collaborate most effectively.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 My Leadership Philosophy
+I believe great products are built by teams that prioritize a **solution-oriented mindset**. My goal is to foster an environment where we focus on:
+* **Positive Momentum:** I value team players who bring a positive attitude and a genuine willingness to help others.
+* **The Greater Good:** I am most motivated when we can clearly see how our work benefits the collective or the end user.
+* **Kindness First:** In a high-speed environment, simply being kind goes a long way with me.
+
+---
+
+## 💬 Communication & Feedback
+To keep our workflows smooth, here is how I prefer to stay in sync:
+* **Open Channels:** I am open to whatever medium works best for the task at hand—be it written async updates, quick huddles, or video calls.
+* **High-Quality Listening:** I value active listening and mutual respect. I find that interruptions often derail the conversation.
+* **Direct Feedback:** While my method for giving feedback depends on the situation, I highly prefer receiving feedback in person so we can discuss nuances in real-time.
+
+---
+
+## ✨ Quirks & Context
+A few things that might help you get to know me better:
+* **The Glasses Quirk:** I have a habit of constantly cleaning my glasses — it's just part of my focus routine.
+* **Pet Peeve:** Driving slow in the fast lane.
+
+---
+
+## 🎸 Beyond the Screen
+When I'm not focused on design or team ops, you'll likely find me:
+* **With Family:** Enjoying time with my family and watching my son experience life.
+* **On the Move:** Traveling whenever I get the chance.
+* **Listening to Music:** I love all types of music, though **Bob Marley** is my all time favorite.
+
+---
